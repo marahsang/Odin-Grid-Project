@@ -1,0 +1,41 @@
+html, body {
+    height: 100%;
+    margin: 0;
+}
+
+.dashboard {
+    height: 100%;
+    padding: 16px;
+    box-sizing: border-box;
+}
+
+.dashboard div {
+    padding: 15px;
+  font-size: 32px;
+  font-family: Helvetica;
+  font-weight: bold;
+  color: white;
+  border-radius: 15px;
+}
+
+.header {
+    background: #006157;
+}
+
+.sidebar {
+    background: #005B94;
+  }
+
+  .main-content {
+    
+  }
+  
+  .right-bar {
+    background: #006157;
+  }
+  
+  .article {
+    background: #7E1DC3;
+  }
+  
+  
