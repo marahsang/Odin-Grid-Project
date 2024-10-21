@@ -38,7 +38,7 @@ html {
 }
 
 .main-content {
-
+  grid-template-columns: 1fr 3fr;
   display: grid;
   grid-column-start: 2;
   grid-column-end: 2;
