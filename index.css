@@ -38,58 +38,6 @@ html {
 }
 
 .main-content {
-  
-  background: #7E1DC3;
-}
-
-
-
-
-
-
-
-
-
-body,
-html {
-  height: 100%;
-  margin: 0;
-}
-
-.dashboard {
-  display: grid;
-  grid-template-columns: 1fr 5fr;
-  text-align: center;
-  height: 100%;
-  padding: 16px;
-  box-sizing: border-box;
-}
-
-.dashboard div {
-  padding: 15px;
-  font-size: 32px;
-  font-family: Helvetica;
-  font-weight: bold;
-  color: white;
-  border-radius: 15px;
-}
-
-.header {
-  display: grid;
-  grid-column-start: 2;
-  grid-row-start: 1;
-  background: #eeec85;;
-}
-
-.sidebar {
-  background-color: #005B94;
-  display: grid;
-  grid-column-start: 1;
-  grid-row-start: 1;
-  grid-row-end: 5;
-}
-
-.main-content {
 
   display: grid;
   grid-column-start: 2;
