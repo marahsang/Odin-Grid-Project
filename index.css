@@ -26,6 +26,7 @@ html {
   display: grid;
   grid-column-start: 2;
   grid-row-start: 1;
+  
   background: #eeec85;;
 }
 
@@ -64,4 +65,21 @@ background: #1F2937;
   grid-row-start: 1;
   grid-row-end: 3;
   background: #3882f6;
+}
+
+ul li {
+  font-size: small;
+  list-style: none;
+}
+
+button {
+  cursor: pointer;
+  padding: 5px 12px;
+  border-radius: 10px;
+  margin: 10px 0;
+  background: #3882F6;
+  border: 1px solid #3882F6;
+  color: #f9faf8;
+  width: 60px;
+  font-size: 12px;
 }
