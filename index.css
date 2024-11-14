@@ -21,39 +21,4 @@ body {
   color: white;
 }
 
- .sidebar ul  {
-  list-style: none;
-}
-
-.sidebar ul li {
-  margin: 20px 0;
-}
-
-.sidebar ul li a {
-  color: #fff;
-  text-decoration: none;
-  font-size: 18px;
-}
-
-ul img {
-  background: #2c78d3;
-  width: auto;
-  height: auto;
-}
-  .header {
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-  }
-
-.main-content {
-  padding: 20px;
-  background: #03f5e1;
-  grid-column: 2 / 3;
-}
-
-.sidebar-right {
-  background: #e7ebf2;
-  padding: 20px;
-  grid-column: 3 /4;
-}
+ 
