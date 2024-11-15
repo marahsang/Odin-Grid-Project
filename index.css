@@ -47,3 +47,12 @@ nav {
   grid-template-columns: auto auto; 
   column-gap: 20px; 
 }
+
+.sidebar nav ul li {
+  margin-bottom: 20px;
+}
+
+.my-side li:nth-child(6), 
+.his-side li:nth-child(6) {
+  margin-bottom: 50px;
+}
