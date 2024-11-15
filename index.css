@@ -36,3 +36,8 @@ nav svg {
   list-style: none;
   padding: 0;
 }
+
+.sidebar nav ul li a {
+  text-decoration: none;
+  color: #fff;
+}
