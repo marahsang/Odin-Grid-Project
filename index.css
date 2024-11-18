@@ -75,3 +75,9 @@ input {
   height: 30px;
   fill: #242729;
 }
+
+.user-info svg {
+  width: 40px;
+  height: 40px;
+    fill: #f5b914e7;
+}
