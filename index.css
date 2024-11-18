@@ -56,3 +56,16 @@ nav {
 .his-side li:nth-child(6) {
   margin-bottom: 50px;
 }
+
+
+.search-bar svg {
+  height: 15px;
+  width: 15px;
+  margin-right: 5px;
+}
+
+input {
+  border-radius: 10px;
+  width: 300px;
+  background: #dfe7e6c7;
+}
