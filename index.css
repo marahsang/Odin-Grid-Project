@@ -69,3 +69,9 @@ input {
   width: 300px;
   background: #dfe7e6c7;
 }
+
+.user-menu svg {
+  width: 30px;
+  height: 30px;
+  fill: #242729;
+}
