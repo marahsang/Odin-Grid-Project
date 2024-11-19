@@ -57,7 +57,6 @@ nav {
   margin-bottom: 50px;
 }
 
-
 .search-bar svg {
   height: 15px;
   width: 15px;
@@ -80,4 +79,21 @@ input {
   width: 40px;
   height: 40px;
     fill: #f5b914e7;
+}
+
+ul li {
+  list-style: none;
+}
+
+button {
+  border: none;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  color: white;
+  font-weight: bold;
+  font-size: 10px;
+  width: 50px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  background: #2c78d3;
 }
