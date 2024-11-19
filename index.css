@@ -97,3 +97,12 @@ button {
   border-radius: 10px;
   background: #2c78d3;
 }
+
+.header {
+  display: grid;
+  grid-template-columns: auto auto;
+  justify-items: center;  /* Center content horizontally */
+  align-items: center;    /* Center content vertically */
+            /* Full viewport height */  
+  background: #fff;
+}
