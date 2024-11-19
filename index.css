@@ -132,3 +132,11 @@ button {
     fill: #f5b914e7;
 } 
 
+
+.project-card {
+  background: #fff;
+  padding: 20px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  height: 200px;
+}
