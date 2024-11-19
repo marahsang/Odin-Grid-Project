@@ -120,3 +120,15 @@ button {
 .user-info li {
   margin-right: 10px;
 } 
+
+.user-menu li:nth-child(3) {
+  font-size: small;
+  font-weight: bold;
+} 
+
+.user-menu li:nth-child(2) svg {
+    width: 30px;
+    height: 30px;
+    fill: #f5b914e7;
+} 
+
