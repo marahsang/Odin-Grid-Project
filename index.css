@@ -11,6 +11,7 @@ body {
 .dashboard {
   display: grid;
   grid-template-columns: 200px 1fr 300px;
+  grid-template-rows: auto 1fr;
   height: 100%;
 }
 
@@ -106,3 +107,16 @@ button {
             /* Full viewport height */  
   background: #fff;
 }
+
+.user-menu, .user-info {
+  display: flex;
+  align-items: center;
+}
+
+.user-menu li {
+  margin-left: 10px;
+}
+
+.user-info li {
+  margin-right: 10px;
+} 
