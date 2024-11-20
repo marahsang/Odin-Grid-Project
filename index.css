@@ -140,6 +140,12 @@ button {
   height: 200px;
 }
 
+.card-icons svg {
+  width: 20px;
+  height: 20px;
+  fill: #242729;
+}
+
 .left svg {
   width: 30px;
   height: 30px;
