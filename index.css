@@ -102,9 +102,9 @@ button {
 .header {
   display: grid;
   grid-template-columns: auto auto;
-  justify-items: center;  /* Center content horizontally */
-  align-items: center;    /* Center content vertically */
-            /* Full viewport height */  
+  justify-items: center;  
+  align-items: center;    
+            
   background: #fff;
 }
 
@@ -132,13 +132,16 @@ button {
     fill: #f5b914e7;
 } 
 
-
 .project-card {
   background: #fff;
   padding: 20px;
   border: 1px solid #ddd;
   border-radius: 8px;
   height: 200px;
-  overflow: hidden;
 }
 
+.left svg {
+  width: 30px;
+  height: 30px;
+  fill: #000;
+} 
