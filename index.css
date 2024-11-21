@@ -143,6 +143,12 @@ button {
   height: 200px;
 }
 
+.projects-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 20px;
+}
+
 .card-icons svg {
   width: 20px;
   height: 20px;
