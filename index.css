@@ -119,6 +119,11 @@ button {
   background: #fff;
 }
 
+.header {
+  margin-top: 12px;
+  height: 120px;
+}
+
 .user-menu, .user-info {
   display: flex;
   align-items: center;
