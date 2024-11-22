@@ -154,6 +154,7 @@ button {
   border: 1px solid #ddd;
   border-radius: 8px;
   height: 200px;
+  box-shadow: 5px 5px #f5b914e7;
 }
 
 .card-icons svg {
@@ -197,7 +198,7 @@ button {
 }
 .widgets-card {
   background:#fff;
-  padding: 29px;
+  padding: 30px;
   border-radius: 8px;
   border: 1px solid #ddd;
 }
