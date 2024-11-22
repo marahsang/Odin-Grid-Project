@@ -227,3 +227,8 @@ fill: #868e94e7;
     height: 30px;
     fill: #fd652986;
   }
+
+  .widgets-card .title {
+    font-weight: bold;
+    padding-top: 20px;
+}
