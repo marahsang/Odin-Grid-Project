@@ -232,3 +232,11 @@ fill: #868e94e7;
     font-weight: bold;
     padding-top: 20px;
 }
+
+.announcements p:nth-child(3) {
+  border-top: 1px solid #dfe7e6c7; 
+}
+
+.announcements p:nth-child(4) {
+    border-bottom: 1px solid rgb(225, 235, 236);   
+}
