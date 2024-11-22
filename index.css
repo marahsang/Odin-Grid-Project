@@ -183,4 +183,9 @@ button {
   background: #edf2f3;
   padding: 12px;
 }
-
+.widgets-card {
+  background:#fff;
+  padding: 30px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
