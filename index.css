@@ -208,3 +208,22 @@ button {
   grid-template-columns: auto auto;
   column-gap: 0; 
 }
+
+.left svg:nth-child(2) {
+  width: 30px;
+  height: 30px;
+  fill: #f5b914e7;
+} 
+
+.left svg:nth-child(3) {
+width: 30px;
+height: 30px;
+fill: #868e94e7;
+} 
+
+.left svg:nth-child(1),
+  .left svg:nth-child(4)  {
+    width: 30px;
+    height: 30px;
+    fill: #fd652986;
+  }
