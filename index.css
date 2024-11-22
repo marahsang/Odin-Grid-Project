@@ -109,7 +109,6 @@ button {
     flex-direction: column;
   }
 
-
 .header {
   display: grid;
   grid-template-columns: auto auto;
@@ -198,7 +197,7 @@ button {
 }
 .widgets-card {
   background:#fff;
-  padding: 30px;
+  padding: 29px;
   border-radius: 8px;
   border: 1px solid #ddd;
 }
