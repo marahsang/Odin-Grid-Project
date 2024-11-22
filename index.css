@@ -202,3 +202,9 @@ button {
   align-items: center;
   gap: 6px;
 }
+
+.trending {
+  display: grid;
+  grid-template-columns: auto auto;
+  column-gap: 0; 
+}
