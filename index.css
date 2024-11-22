@@ -158,6 +158,10 @@ button {
   fill: #242729;
 }
 
+.projects .title {
+  font-weight: bold;
+}
+
 .left svg {
   width: 30px;
   height: 30px;
